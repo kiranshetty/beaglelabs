@@ -1,0 +1,35 @@
+.perfect-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.font_7 {
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 20px;
+    line-height: 1.67em;
+    font-family: avenir-lt-w01_35-light1475496, sans-serif;
+    color: #181818;
+}
+
+.font_6 {
+    font: normal normal normal 40px/1.35em oswald-medium,oswald,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 40px;
+    line-height: 1.35em;
+    font-family: oswald-medium, oswald, sans-serif;
+    color: #181818;
+}

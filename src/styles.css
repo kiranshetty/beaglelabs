@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.font_7 {
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 10px;
+    line-height: 1.67em;
+    font-family: avenir-lt-w01_35-light1475496, sans-serif;
+    color: #181818;
+}
